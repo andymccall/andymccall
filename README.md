@@ -7,7 +7,7 @@ I'm passionate about retro computers such as the ZX Spectrum, Amstrad CPC, Commo
 You can find me on social media:
   - Blog: [andymccall.co.uk](http://www.andymccall.co.uk)
   - Mastadon: [mastodon.social/@andymccall](https://mastodon.social/@andymccall)
-  - Blue Sky: [@andymccall.bsky.social](https://bsky.app/profile/andymccall.bsky.social)
+  - BlueSky: [@andymccall.co.uk](https://bsky.app/profile/andymccall.co.uk)
 
 If you get anything useful from my repositories, please let me know!
 
