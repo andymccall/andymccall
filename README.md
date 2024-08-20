@@ -9,7 +9,7 @@ You can find me on social media:
   - Mastadon: [mastodon.social/@andymccall](https://mastodon.social/@andymccall)
   - BlueSky: [@andymccall.co.uk](https://bsky.app/profile/andymccall.co.uk)
 
-If you get anything useful from my repositories, please let me know!
+I don't write code, documents or software for profit, I do it for enjoyment and to help others. If you get anything useful from my repositories, please let me know by buying me a coffee using [my Ko-fi tip page here] (https://ko-fi.com/andymccall).
 
 <!---
 andymcall/andymccall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
